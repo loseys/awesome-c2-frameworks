@@ -43,4 +43,4 @@ Skip the repository line when there is no public repo, and put the vendor page i
 
 Do not add install commands, operating steps, or a category the page does not state.
 
-List text is [CC0](../license).
+List text is [CC0](../LICENSE).
