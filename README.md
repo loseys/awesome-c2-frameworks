@@ -40,7 +40,7 @@ It comes with runtime evasion containing indirect syscalls, stack spoofing, and 
 > Click below to see more details.
 
 <details>
-<summary>Notes</summary>
+<summary>More details</summary>
 
 | | |
 | --- | --- |
@@ -86,7 +86,7 @@ Sliver is Bishop Fox's framework for adversary emulation and authorized red team
 > Click below to see more details.
 
 <details>
-<summary>Notes</summary>
+<summary>More details</summary>
 
 | | |
 | --- | --- |
@@ -125,7 +125,7 @@ Havoc is a malleable post-exploitation command-and-control framework by @C5pider
 > Click below to see more details.
 
 <details>
-<summary>Notes</summary>
+<summary>More details</summary>
 
 Site: [havocframework.com](https://havocframework.com). Wiki: [Havoc wiki](https://github.com/HavocFramework/Havoc/wiki).
 
@@ -170,7 +170,7 @@ Mythic is a collaborative post-exploit framework. Operators, managers, and repor
 > Click below to see more details.
 
 <details>
-<summary>Notes</summary>
+<summary>More details</summary>
 
 Docs: [docs.mythic-c2.net](https://docs.mythic-c2.net). The README names Go, Docker, docker-compose, and a browser UI. Agent and profile index: [mythicmeta.github.io/overview](https://mythicmeta.github.io/overview).
 
@@ -211,7 +211,7 @@ AdaptixC2 v1.2 is an extensible post-exploitation and adversarial emulation fram
 > Click below to see more details.
 
 <details>
-<summary>Notes</summary>
+<summary>More details</summary>
 
 Docs: [Adaptix gitbook](https://adaptix-framework.gitbook.io/adaptix-framework). Extension kit: [Adaptix-Framework/Extension-Kit](https://github.com/Adaptix-Framework/Extension-Kit).
 
@@ -256,7 +256,7 @@ Empire is BC Security's post-exploitation and adversary emulation framework for 
 > Click below to see more details.
 
 <details>
-<summary>Notes</summary>
+<summary>More details</summary>
 
 Wiki: [bc-security.gitbook.io/empire-wiki](https://bc-security.gitbook.io/empire-wiki/). Starkiller: [BC-SECURITY/Starkiller](https://github.com/BC-SECURITY/Starkiller). The original [EmpireProject/Empire](https://github.com/EmpireProject/Empire) repository is archived. Its last push in the API is 19 January 2020. This entry is the BC Security repository.
 
@@ -301,7 +301,7 @@ Merlin is a cross-platform post-exploitation command-and-control server and agen
 > Click below to see more details.
 
 <details>
-<summary>Notes</summary>
+<summary>More details</summary>
 
 Docs: [merlin-c2.readthedocs.io](https://merlin-c2.readthedocs.io/en/latest/). The agent source, CLI, and a Mythic port live in sibling repositories linked from the README.
 
@@ -342,7 +342,7 @@ Caldera is Apache's platform for adversary emulation, manual red teams, and inci
 > Click below to see more details.
 
 <details>
-<summary>Notes</summary>
+<summary>More details</summary>
 
 Home: [caldera.apache.org](https://caldera.apache.org/). Docs: [caldera.readthedocs.io](https://caldera.readthedocs.io/en/latest/). The old `mitre/caldera` path now resolves to `apache/caldera`.
 
@@ -384,7 +384,7 @@ Cobalt Strike is Fortra's software for adversary simulations and red team operat
 > Click below to see more details.
 
 <details>
-<summary>Notes</summary>
+<summary>More details</summary>
 
 Homepage: [cobaltstrike.com](https://www.cobaltstrike.com/). Fortra's product line repeats the same framing: [fortra.com/product-lines/cobalt-strike](https://www.fortra.com/product-lines/cobalt-strike). The 4.13 line names Beacon Interpreter, BOF-PE support, LLVM Beacon, Payload Store, Malleable Profile Overrides, a docking GUI, and streaming support. The same page says the product interoperates with Core Impact and Outflank Security Tooling. Raphael Mudge created it in 2012. Fortra acquired it in 2020. The features pages name an Arsenal Kit and a Sleep Mask Kit. A Cobalt Strike blog says Beacon is a Windows-only payload.
 
@@ -415,7 +415,7 @@ Brute Ratel C4 calls itself a customized command-and-control center for red team
 > Click below to see more details.
 
 <details>
-<summary>Notes</summary>
+<summary>More details</summary>
 
 Site: [bruteratel.com](https://bruteratel.com/).
 
