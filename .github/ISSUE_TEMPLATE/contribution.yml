@@ -1,0 +1,74 @@
+name: Contribution
+description: Add a framework to the catalog
+title: "Add: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Read the project's own page before filling this in. Categories have to be claims that page actually makes.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: Plain name, as the project writes it.
+      placeholder: Sliver
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Open Source
+        - Commercial
+    validations:
+      required: true
+  - type: input
+    id: repository
+    attributes:
+      label: Repository
+      description: Public GitHub URL. Leave empty when the project has no public repository.
+      placeholder: https://github.com/org/repo
+  - type: input
+    id: site
+    attributes:
+      label: Docs or vendor page
+      description: Only if you used a page other than the repository README.
+      placeholder: https://
+  - type: textarea
+    id: description
+    attributes:
+      label: Short description
+      description: Two or three sentences from the project's own page.
+    validations:
+      required: true
+  - type: textarea
+    id: categories
+    attributes:
+      label: Categories
+      description: One per line, as `Category | Their wording | README, Docs, or Site`.
+      placeholder: |
+        Transports | Mutual TLS, WireGuard, HTTP(S), and DNS. | README
+    validations:
+      required: true
+  - type: input
+    id: pushed
+    attributes:
+      label: Last push
+      description: GitHub API date, for a public repository.
+      placeholder: 14 November 2026
+  - type: input
+    id: stars
+    attributes:
+      label: Stars / forks
+      description: GitHub API counts, for a public repository.
+      placeholder: 12337 / 1674
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I opened the project's own page and did not invent a category.
+          required: true
+        - label: This does not include install commands or operating steps.
+          required: true
