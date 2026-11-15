@@ -18,15 +18,11 @@
 
 ---
 
-<br>
-
 # Index
 
 - [Open Source](#open-source)
 - [Commercial](#commercial)
 - [Comparison](#comparison)
-
-<br>
 
 # Open Source
 
